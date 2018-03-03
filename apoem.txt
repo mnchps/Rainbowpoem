@@ -3,4 +3,5 @@ Purple
 Pink
 Blue
 Red
+Love
 These are the colors of the rainbow.
